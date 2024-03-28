@@ -1,0 +1,587 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D430F0062BB5C34500E314FA /* ICARE_NYCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D430F0052BB5C34500E314FA /* ICARE_NYCApp.swift */; };
+		D430F0082BB5C34500E314FA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D430F0072BB5C34500E314FA /* ContentView.swift */; };
+		D430F00A2BB5C34700E314FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D430F0092BB5C34700E314FA /* Assets.xcassets */; };
+		D430F00D2BB5C34700E314FA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D430F00C2BB5C34700E314FA /* Preview Assets.xcassets */; };
+		D430F0172BB5C34800E314FA /* ICARE_NYCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D430F0162BB5C34800E314FA /* ICARE_NYCTests.swift */; };
+		D430F0212BB5C34800E314FA /* ICARE_NYCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D430F0202BB5C34800E314FA /* ICARE_NYCUITests.swift */; };
+		D430F0232BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D430F0222BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D430F0132BB5C34800E314FA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D430EFFA2BB5C34500E314FA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D430F0012BB5C34500E314FA;
+			remoteInfo = "ICARE NYC";
+		};
+		D430F01D2BB5C34800E314FA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D430EFFA2BB5C34500E314FA /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D430F0012BB5C34500E314FA;
+			remoteInfo = "ICARE NYC";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D430F0022BB5C34500E314FA /* ICARE NYC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ICARE NYC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D430F0052BB5C34500E314FA /* ICARE_NYCApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICARE_NYCApp.swift; sourceTree = "<group>"; };
+		D430F0072BB5C34500E314FA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D430F0092BB5C34700E314FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D430F00C2BB5C34700E314FA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D430F0122BB5C34800E314FA /* ICARE NYCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ICARE NYCTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D430F0162BB5C34800E314FA /* ICARE_NYCTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICARE_NYCTests.swift; sourceTree = "<group>"; };
+		D430F01C2BB5C34800E314FA /* ICARE NYCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ICARE NYCUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D430F0202BB5C34800E314FA /* ICARE_NYCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICARE_NYCUITests.swift; sourceTree = "<group>"; };
+		D430F0222BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICARE_NYCUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D430EFFF2BB5C34500E314FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D430F00F2BB5C34800E314FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D430F0192BB5C34800E314FA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D430EFF92BB5C34500E314FA = {
+			isa = PBXGroup;
+			children = (
+				D430F0042BB5C34500E314FA /* ICARE NYC */,
+				D430F0152BB5C34800E314FA /* ICARE NYCTests */,
+				D430F01F2BB5C34800E314FA /* ICARE NYCUITests */,
+				D430F0032BB5C34500E314FA /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D430F0032BB5C34500E314FA /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D430F0022BB5C34500E314FA /* ICARE NYC.app */,
+				D430F0122BB5C34800E314FA /* ICARE NYCTests.xctest */,
+				D430F01C2BB5C34800E314FA /* ICARE NYCUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D430F0042BB5C34500E314FA /* ICARE NYC */ = {
+			isa = PBXGroup;
+			children = (
+				D430F0052BB5C34500E314FA /* ICARE_NYCApp.swift */,
+				D430F0072BB5C34500E314FA /* ContentView.swift */,
+				D430F0092BB5C34700E314FA /* Assets.xcassets */,
+				D430F00B2BB5C34700E314FA /* Preview Content */,
+			);
+			path = "ICARE NYC";
+			sourceTree = "<group>";
+		};
+		D430F00B2BB5C34700E314FA /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D430F00C2BB5C34700E314FA /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D430F0152BB5C34800E314FA /* ICARE NYCTests */ = {
+			isa = PBXGroup;
+			children = (
+				D430F0162BB5C34800E314FA /* ICARE_NYCTests.swift */,
+			);
+			path = "ICARE NYCTests";
+			sourceTree = "<group>";
+		};
+		D430F01F2BB5C34800E314FA /* ICARE NYCUITests */ = {
+			isa = PBXGroup;
+			children = (
+				D430F0202BB5C34800E314FA /* ICARE_NYCUITests.swift */,
+				D430F0222BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift */,
+			);
+			path = "ICARE NYCUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D430F0012BB5C34500E314FA /* ICARE NYC */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D430F0262BB5C34800E314FA /* Build configuration list for PBXNativeTarget "ICARE NYC" */;
+			buildPhases = (
+				D430EFFE2BB5C34500E314FA /* Sources */,
+				D430EFFF2BB5C34500E314FA /* Frameworks */,
+				D430F0002BB5C34500E314FA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "ICARE NYC";
+			productName = "ICARE NYC";
+			productReference = D430F0022BB5C34500E314FA /* ICARE NYC.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D430F0112BB5C34800E314FA /* ICARE NYCTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D430F0292BB5C34800E314FA /* Build configuration list for PBXNativeTarget "ICARE NYCTests" */;
+			buildPhases = (
+				D430F00E2BB5C34800E314FA /* Sources */,
+				D430F00F2BB5C34800E314FA /* Frameworks */,
+				D430F0102BB5C34800E314FA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D430F0142BB5C34800E314FA /* PBXTargetDependency */,
+			);
+			name = "ICARE NYCTests";
+			productName = "ICARE NYCTests";
+			productReference = D430F0122BB5C34800E314FA /* ICARE NYCTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		D430F01B2BB5C34800E314FA /* ICARE NYCUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D430F02C2BB5C34800E314FA /* Build configuration list for PBXNativeTarget "ICARE NYCUITests" */;
+			buildPhases = (
+				D430F0182BB5C34800E314FA /* Sources */,
+				D430F0192BB5C34800E314FA /* Frameworks */,
+				D430F01A2BB5C34800E314FA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D430F01E2BB5C34800E314FA /* PBXTargetDependency */,
+			);
+			name = "ICARE NYCUITests";
+			productName = "ICARE NYCUITests";
+			productReference = D430F01C2BB5C34800E314FA /* ICARE NYCUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D430EFFA2BB5C34500E314FA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					D430F0012BB5C34500E314FA = {
+						CreatedOnToolsVersion = 15.3;
+					};
+					D430F0112BB5C34800E314FA = {
+						CreatedOnToolsVersion = 15.3;
+						TestTargetID = D430F0012BB5C34500E314FA;
+					};
+					D430F01B2BB5C34800E314FA = {
+						CreatedOnToolsVersion = 15.3;
+						TestTargetID = D430F0012BB5C34500E314FA;
+					};
+				};
+			};
+			buildConfigurationList = D430EFFD2BB5C34500E314FA /* Build configuration list for PBXProject "ICARE NYC" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D430EFF92BB5C34500E314FA;
+			productRefGroup = D430F0032BB5C34500E314FA /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D430F0012BB5C34500E314FA /* ICARE NYC */,
+				D430F0112BB5C34800E314FA /* ICARE NYCTests */,
+				D430F01B2BB5C34800E314FA /* ICARE NYCUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D430F0002BB5C34500E314FA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D430F00D2BB5C34700E314FA /* Preview Assets.xcassets in Resources */,
+				D430F00A2BB5C34700E314FA /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D430F0102BB5C34800E314FA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D430F01A2BB5C34800E314FA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D430EFFE2BB5C34500E314FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D430F0082BB5C34500E314FA /* ContentView.swift in Sources */,
+				D430F0062BB5C34500E314FA /* ICARE_NYCApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D430F00E2BB5C34800E314FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D430F0172BB5C34800E314FA /* ICARE_NYCTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D430F0182BB5C34800E314FA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D430F0232BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift in Sources */,
+				D430F0212BB5C34800E314FA /* ICARE_NYCUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D430F0142BB5C34800E314FA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D430F0012BB5C34500E314FA /* ICARE NYC */;
+			targetProxy = D430F0132BB5C34800E314FA /* PBXContainerItemProxy */;
+		};
+		D430F01E2BB5C34800E314FA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D430F0012BB5C34500E314FA /* ICARE NYC */;
+			targetProxy = D430F01D2BB5C34800E314FA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		D430F0242BB5C34800E314FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D430F0252BB5C34800E314FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D430F0272BB5C34800E314FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ICARE NYC/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.columbia.ICARE-NYC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D430F0282BB5C34800E314FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"ICARE NYC/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.columbia.ICARE-NYC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		D430F02A2BB5C34800E314FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.columbia.ICARE-NYCTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ICARE NYC.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ICARE NYC";
+			};
+			name = Debug;
+		};
+		D430F02B2BB5C34800E314FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.columbia.ICARE-NYCTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ICARE NYC.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ICARE NYC";
+			};
+			name = Release;
+		};
+		D430F02D2BB5C34800E314FA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.columbia.ICARE-NYCUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "ICARE NYC";
+			};
+			name = Debug;
+		};
+		D430F02E2BB5C34800E314FA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.columbia.ICARE-NYCUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "ICARE NYC";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D430EFFD2BB5C34500E314FA /* Build configuration list for PBXProject "ICARE NYC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D430F0242BB5C34800E314FA /* Debug */,
+				D430F0252BB5C34800E314FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D430F0262BB5C34800E314FA /* Build configuration list for PBXNativeTarget "ICARE NYC" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D430F0272BB5C34800E314FA /* Debug */,
+				D430F0282BB5C34800E314FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D430F0292BB5C34800E314FA /* Build configuration list for PBXNativeTarget "ICARE NYCTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D430F02A2BB5C34800E314FA /* Debug */,
+				D430F02B2BB5C34800E314FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D430F02C2BB5C34800E314FA /* Build configuration list for PBXNativeTarget "ICARE NYCUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D430F02D2BB5C34800E314FA /* Debug */,
+				D430F02E2BB5C34800E314FA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D430EFFA2BB5C34500E314FA /* Project object */;
+}
