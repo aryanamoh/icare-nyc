@@ -8,8 +8,27 @@
 import SwiftUI
 
 struct ResourcesView: View {
+    let resources: [(title: String, url: String)] = [
+        ("Resource 1", "https://www.google.com"),
+        ("Resource 2", "https://www.apple.com"),
+        // Add more resources as needed
+    ]
+
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationView {
+            List {
+                ForEach(resources, id: \.title) { resource in
+                    Button(action: {
+                        if let url = URL(string: resource.url) {
+                            UIApplication.shared.open(url)
+                        }
+                    }) {
+                        Text(resource.title)
+                    }
+                }
+            }
+            .navigationTitle("Useful Resources")
+        }
     }
 }
 
