@@ -2,4 +2,5 @@
 Infrastructure Concerns Assessment & Reporting for Education in NYC
 
 ## Current iteration
-![XCode Simulation](version1.gif)
+
+<img src="version1.gif" alt="XCode Simulation" width="300"/>
