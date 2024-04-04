@@ -11,7 +11,7 @@ import SwiftUI
 struct ICARE_NYCApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }

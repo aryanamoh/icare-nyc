@@ -14,6 +14,14 @@
 		D430F0172BB5C34800E314FA /* ICARE_NYCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D430F0162BB5C34800E314FA /* ICARE_NYCTests.swift */; };
 		D430F0212BB5C34800E314FA /* ICARE_NYCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D430F0202BB5C34800E314FA /* ICARE_NYCUITests.swift */; };
 		D430F0232BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D430F0222BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift */; };
+		D48BE1212BBCCA5A00ADA919 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48BE1202BBCCA5A00ADA919 /* HomeView.swift */; };
+		D48BE1232BBCCAC300ADA919 /* FormModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D48BE1222BBCCAC300ADA919 /* FormModel.swift */; };
+		D4E3E5A62BBDF329007EDE6C /* FormView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E3E5A52BBDF329007EDE6C /* FormView.swift */; };
+		D4E3E5A82BBDF351007EDE6C /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E3E5A72BBDF351007EDE6C /* SettingsView.swift */; };
+		D4E3E5AA2BBDF3B9007EDE6C /* ResourcesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E3E5A92BBDF3B9007EDE6C /* ResourcesView.swift */; };
+		D4E3E5AE2BBE3A5D007EDE6C /* NavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E3E5AD2BBE3A5D007EDE6C /* NavBarView.swift */; };
+		D4E3E5B02BBE4412007EDE6C /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E3E5AF2BBE4412007EDE6C /* AboutView.swift */; };
+		D4E3E5B22BBE4C95007EDE6C /* SchoolSearchButtons.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4E3E5B12BBE4C95007EDE6C /* SchoolSearchButtons.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +52,14 @@
 		D430F01C2BB5C34800E314FA /* ICARE NYCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ICARE NYCUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D430F0202BB5C34800E314FA /* ICARE_NYCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICARE_NYCUITests.swift; sourceTree = "<group>"; };
 		D430F0222BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ICARE_NYCUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D48BE1202BBCCA5A00ADA919 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		D48BE1222BBCCAC300ADA919 /* FormModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormModel.swift; sourceTree = "<group>"; };
+		D4E3E5A52BBDF329007EDE6C /* FormView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView.swift; sourceTree = "<group>"; };
+		D4E3E5A72BBDF351007EDE6C /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		D4E3E5A92BBDF3B9007EDE6C /* ResourcesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResourcesView.swift; sourceTree = "<group>"; };
+		D4E3E5AD2BBE3A5D007EDE6C /* NavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavBarView.swift; sourceTree = "<group>"; };
+		D4E3E5AF2BBE4412007EDE6C /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
+		D4E3E5B12BBE4C95007EDE6C /* SchoolSearchButtons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SchoolSearchButtons.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,8 +110,10 @@
 		D430F0042BB5C34500E314FA /* ICARE NYC */ = {
 			isa = PBXGroup;
 			children = (
-				D430F0052BB5C34500E314FA /* ICARE_NYCApp.swift */,
-				D430F0072BB5C34500E314FA /* ContentView.swift */,
+				D48BE11F2BBCC9BC00ADA919 /* Other */,
+				D48BE11E2BBCC94F00ADA919 /* View Models */,
+				D48BE11D2BBCC94300ADA919 /* Models */,
+				D48BE11C2BBCC93300ADA919 /* Views */,
 				D430F0092BB5C34700E314FA /* Assets.xcassets */,
 				D430F00B2BB5C34700E314FA /* Preview Content */,
 			);
@@ -125,6 +143,44 @@
 				D430F0222BB5C34800E314FA /* ICARE_NYCUITestsLaunchTests.swift */,
 			);
 			path = "ICARE NYCUITests";
+			sourceTree = "<group>";
+		};
+		D48BE11C2BBCC93300ADA919 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D430F0072BB5C34500E314FA /* ContentView.swift */,
+				D4E3E5AD2BBE3A5D007EDE6C /* NavBarView.swift */,
+				D48BE1202BBCCA5A00ADA919 /* HomeView.swift */,
+				D4E3E5A52BBDF329007EDE6C /* FormView.swift */,
+				D4E3E5A72BBDF351007EDE6C /* SettingsView.swift */,
+				D4E3E5A92BBDF3B9007EDE6C /* ResourcesView.swift */,
+				D4E3E5AF2BBE4412007EDE6C /* AboutView.swift */,
+				D4E3E5B12BBE4C95007EDE6C /* SchoolSearchButtons.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D48BE11D2BBCC94300ADA919 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D48BE1222BBCCAC300ADA919 /* FormModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D48BE11E2BBCC94F00ADA919 /* View Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "View Models";
+			sourceTree = "<group>";
+		};
+		D48BE11F2BBCC9BC00ADA919 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				D430F0052BB5C34500E314FA /* ICARE_NYCApp.swift */,
+			);
+			path = Other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +313,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4E3E5AE2BBE3A5D007EDE6C /* NavBarView.swift in Sources */,
+				D48BE1212BBCCA5A00ADA919 /* HomeView.swift in Sources */,
 				D430F0082BB5C34500E314FA /* ContentView.swift in Sources */,
+				D4E3E5A62BBDF329007EDE6C /* FormView.swift in Sources */,
+				D4E3E5B02BBE4412007EDE6C /* AboutView.swift in Sources */,
+				D4E3E5AA2BBDF3B9007EDE6C /* ResourcesView.swift in Sources */,
+				D4E3E5A82BBDF351007EDE6C /* SettingsView.swift in Sources */,
 				D430F0062BB5C34500E314FA /* ICARE_NYCApp.swift in Sources */,
+				D48BE1232BBCCAC300ADA919 /* FormModel.swift in Sources */,
+				D4E3E5B22BBE4C95007EDE6C /* SchoolSearchButtons.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
