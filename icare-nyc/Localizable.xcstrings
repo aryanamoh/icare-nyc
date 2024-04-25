@@ -1,0 +1,1029 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@:"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        }
+      }
+    },
+    "About the App" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobre la aplicación"
+          }
+        }
+      }
+    },
+    "About the MORE Caucus" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobre el caucus MORE"
+          }
+        }
+      }
+    },
+    "App Version: 1.0" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versión de la aplicación: 1.0"
+          }
+        }
+      }
+    },
+    "Bathroom" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baño"
+          }
+        }
+      }
+    },
+    "Boiler Room" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La sala de calderas"
+          }
+        }
+      }
+    },
+    "Cafeteria" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cafetería"
+          }
+        }
+      }
+    },
+    "Classroom" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aula"
+          }
+        }
+      }
+    },
+    "Click to open report details." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haga clic para abrir los detalles del informe."
+          }
+        }
+      }
+    },
+    "Click to search reports by district." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Haga clic para buscar informes por distrito."
+          }
+        }
+      }
+    },
+    "Community Member" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Miembro de la comunidad"
+          }
+        }
+      }
+    },
+    "Computer Room" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La sala de computadoras"
+          }
+        }
+      }
+    },
+    "Conference Room" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La sala de conferencias "
+          }
+        }
+      }
+    },
+    "Custodial Closet" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Armario de custodia"
+          }
+        }
+      }
+    },
+    "Description *" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descripción *"
+          }
+        }
+      }
+    },
+    "District" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Distrito"
+          }
+        }
+      }
+    },
+    "Donate to MORE Caucus" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Donar al caucus MORE"
+          }
+        }
+      }
+    },
+    "Email" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo electrónico"
+          }
+        }
+      }
+    },
+    "Enter Description" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingrese la descripción"
+          }
+        }
+      }
+    },
+    "Enter floor number" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingrese el número de piso"
+          }
+        }
+      }
+    },
+    "Enter room name or number" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingrese el nombre o número de la habitación"
+          }
+        }
+      }
+    },
+    "Enter your email" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingrese su correo electrónico"
+          }
+        }
+      }
+    },
+    "Enter your name" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ingrese su nombre"
+          }
+        }
+      }
+    },
+    "Entrance Area" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La entrada"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error"
+          }
+        }
+      }
+    },
+    "Feedback and Support" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comentarios y Soporte"
+          }
+        }
+      }
+    },
+    "Flaking Paint" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pintura descascarada"
+          }
+        }
+      }
+    },
+    "Floor *" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Número de Piso *"
+          }
+        }
+      }
+    },
+    "Get Involved" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Participa"
+          }
+        }
+      }
+    },
+    "Gym" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El gimnasio"
+          }
+        }
+      }
+    },
+    "Hallway" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El pasio"
+          }
+        }
+      }
+    },
+    "Hello, World!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Hola, Mundo!"
+          }
+        }
+      }
+    },
+    "Indoor Air Quality" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calidad del aire interior"
+          }
+        }
+      }
+    },
+    "Infrastructure Concerns Assessment and Reporting for Education in NYC" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Evaluación e informes de problemas de infraestructura para la educación en la ciudad de Nueva York"
+          }
+        }
+      }
+    },
+    "Infrastructure Reporting Form" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formulario de infraestructura"
+          }
+        }
+      }
+    },
+    "Kitchen" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La cocina"
+          }
+        }
+      }
+    },
+    "Library" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La bibliotecha"
+          }
+        }
+      }
+    },
+    "Licensed under MIT License" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con licencia bajo la Licencia MIT"
+          }
+        }
+      }
+    },
+    "Location Details" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalles de la Ubicación"
+          }
+        }
+      }
+    },
+    "Locker Room" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El vestuario"
+          }
+        }
+      }
+    },
+    "Lounge" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El salón"
+          }
+        }
+      }
+    },
+    "Mechanical Room" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sala mecánica"
+          }
+        }
+      }
+    },
+    "Mold Growth" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Crecimiento de moho"
+          }
+        }
+      }
+    },
+    "MORE Caucus Website" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sitio web del caucus MORE"
+          }
+        }
+      }
+    },
+    "Music Room" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La sala de música"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre "
+          }
+        }
+      }
+    },
+    "No recent reports for %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay informes recientes para: %@"
+          }
+        }
+      }
+    },
+    "Non-required field" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Campo de formulario no requerido"
+          }
+        }
+      }
+    },
+    "Office" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La oficina"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Open About Page" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir la página Acerca de"
+          }
+        }
+      }
+    },
+    "Parent" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Padres"
+          }
+        }
+      }
+    },
+    "Pest Sightings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avistamientos de plagas"
+          }
+        }
+      }
+    },
+    "Physical Damage" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daño físico"
+          }
+        }
+      }
+    },
+    "Please make sure all required fields are completed." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Por favor, asegúrese de completar todos los campos requeridos."
+          }
+        }
+      }
+    },
+    "Preferences" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preferencias"
+          }
+        }
+      }
+    },
+    "Problem Details" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalles del Problema"
+          }
+        }
+      }
+    },
+    "Problem Type *" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipos de problemas *"
+          }
+        }
+      }
+    },
+    "Recent Reports" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informes Recientes"
+          }
+        }
+      }
+    },
+    "Report Details" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalles del Informe"
+          }
+        }
+      }
+    },
+    "Report Form" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Formulario de Informe"
+          }
+        }
+      }
+    },
+    "Required field" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Campo de formulario requerido"
+          }
+        }
+      }
+    },
+    "Resources" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recursos"
+          }
+        }
+      }
+    },
+    "Rodent Droppings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Excrementos de roedores"
+          }
+        }
+      }
+    },
+    "Role *" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rol *"
+          }
+        }
+      }
+    },
+    "Room Name / Number *" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El nombre del salón, el numero del salón *"
+          }
+        }
+      }
+    },
+    "Room Type *" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipo de habitación *"
+          }
+        }
+      }
+    },
+    "Safety Hazards" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riesgos de seguridad"
+          }
+        }
+      }
+    },
+    "Search for: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar: %@"
+          }
+        }
+      }
+    },
+    "Select District" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar distrito"
+          }
+        }
+      }
+    },
+    "Select District *" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar distrito *"
+          }
+        }
+      }
+    },
+    "Select Problem Type" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar tipo de problema"
+          }
+        }
+      }
+    },
+    "Select Role" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar rol"
+          }
+        }
+      }
+    },
+    "Select Room Type" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecionar tipo de habitación"
+          }
+        }
+      }
+    },
+    "Select school" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecionar escuela"
+          }
+        }
+      }
+    },
+    "Select School *" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecionar escuela *"
+          }
+        }
+      }
+    },
+    "Send Feedback" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar comentarios"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración "
+          }
+        }
+      }
+    },
+    "Shaft" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El hueco"
+          }
+        }
+      }
+    },
+    "Stairwell" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La escalera"
+          }
+        }
+      }
+    },
+    "Storage" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El almacenamiento"
+          }
+        }
+      }
+    },
+    "Student" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estudiante"
+          }
+        }
+      }
+    },
+    "Submit" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enviar"
+          }
+        }
+      }
+    },
+    "Success" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Éxito"
+          }
+        }
+      }
+    },
+    "Support the App" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apoya la aplicación"
+          }
+        }
+      }
+    },
+    "Teacher" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maestros"
+          }
+        }
+      }
+    },
+    "Thank you for your feedback!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Gracias por sus comentarios!"
+          }
+        }
+      }
+    },
+    "The app is designed to match the language and visual preferences of your phone. Please navigate to your settings app to change your preferences." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La aplicación está diseñada para coincidir con el idioma y las preferencias visuales de su teléfono. Por favor, vaya a la aplicación de configuración para cambiar sus preferencias."
+          }
+        }
+      }
+    },
+    "The Movement of Rank and File Educators (MORE) is a movement of New York City teachers fighting for more just schools. Our motto is \"our working conditions are our students' learning conditions\"." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El Movimiento de Educadores de Base (MORE) es un movimiento de maestros de la ciudad de Nueva York que luchan por escuelas más justas. Nuestro lema es \"las condiciones de trabajo son las condiciones de aprendizaje de nuestros estudiantes.\""
+          }
+        }
+      }
+    },
+    "There was a problem submitting your form. Please try again later." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hubo un problema al enviar su formulario. Por favor, inténtelo de nuevo más tarde."
+          }
+        }
+      }
+    },
+    "Thermal Control" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Control térmico"
+          }
+        }
+      }
+    },
+    "This app is run and maintained by the MORE Caucus. Donations to keep the app running are appreciated. You can donate on the MORE Caucus website." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicación es administrada y mantenida por el caucus MORE. Se aprecian las donaciones para mantener la aplicación en funcionamiento. Puedes donar en el sitio web del caucus MORE."
+          }
+        }
+      }
+    },
+    "This app was developed by Aryana Mohammadi and Erika Kitzmiller's Education Policy course for the MORE caucus of NYC's teachers union." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esta aplicación fue desarrollada por el curso de Política Educativa de Aryana Mohammadi y Erika Kitzmiller para el caucus MORE del sindicato de maestros de Nueva York."
+          }
+        }
+      }
+    },
+    "To get involved with the MORE Caucus, visit their website:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para participar en el caucus MORE, visita su sitio web:"
+          }
+        }
+      }
+    },
+    "User Details" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detalles del Usuario"
+          }
+        }
+      }
+    },
+    "Water / Steam Leaks" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fugas de agua / vapor"
+          }
+        }
+      }
+    },
+    "Water Damage" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daños por agua"
+          }
+        }
+      }
+    },
+    "Workplace Illness" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enfermedad en el lugar de trabajo"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
