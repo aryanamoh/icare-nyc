@@ -1,6 +1,9 @@
 # ICARE NYC
 Infrastructure Concerns Assessment & Reporting for Education in NYC
 
-## Current iteration
+## First iteration
 
 <img src="version1.gif" alt="XCode Simulation" width="300"/>
+
+## Current iteration
+...
